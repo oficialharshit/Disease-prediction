@@ -8,7 +8,7 @@ model = pickle.load(open("model.pkl", "rb"))
 
 symptoms = pickle.load(open("symptoms.pkl", "rb"))
 
-# If you saved LabelEncoder
+
 try:
     encoder = pickle.load(open("label_encoder.pkl", "rb"))
 except:
