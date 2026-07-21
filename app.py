@@ -35,6 +35,12 @@ st.write("")
 st.write("")
 st.write("")
 st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
 
 if st.button("Predict Disease"):
 
